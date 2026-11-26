@@ -39,7 +39,7 @@ My computer science self-study path. Linked courses take you to my work. Plain-t
 
 ### Natural Language Processing
 
-- YSDA — Natural Language Processing ([course materials](https://github.com/yandexdataschool/nlp_course))
+- YSDA — Natural Language Processing
 - Stanford CS336 — Language Modeling from Scratch
 
 ### Computer Vision
