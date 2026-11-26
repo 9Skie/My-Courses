@@ -46,7 +46,7 @@ Computer science thrives because people openly share what they build and how the
 
 - Stanford CS231n — Deep Learning for Computer Vision
 - MIT 6.S183 — A Practical Introduction to Diffusion Models
-- MIT 6.S184 — Generative AI with Stochastic Differential Equations: Introduction to Flow Matching and Diffusion Models
+- MIT 6.S184 — Generative AI with Stochastic Differential Equations
 
 ### Reinforcement Learning
 
