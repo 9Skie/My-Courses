@@ -1,6 +1,6 @@
 # My Courses
 
-My computer science self-study path. Linked courses take you to my work. Plain-text courses are on my list to study next.
+Computer science thrives because people openly share what they build and how they learn. This is my self-study path through open courseware, shared in that same spirit.
 
 ## SWE
 
