@@ -28,6 +28,30 @@ My computer science self-study path. Linked courses take you to my work. Plain-t
 
 ## AI
 
+### Machine Learning
+
+- [An Introduction to Statistical Learning](https://github.com/9Skie/Intro-to-Statistical-Learning)
+
+### Deep Learning
+
+- Dive into Deep Learning
+- [PyTorch for Deep Learning](https://github.com/9Skie/PyTorch-for-Deep-Learning)
+
+### Natural Language Processing
+
+- Yandex School of Data Analysis — Natural Language Processing ([course materials](https://github.com/yandexdataschool/nlp_course))
+- Stanford CS336 — Language Modeling from Scratch
+
+### Computer Vision
+
+- Stanford CS231n — Deep Learning for Computer Vision
+- MIT 6.S182
+- MIT 6.S183 — A Practical Introduction to Diffusion Models
+
+### Reinforcement Learning
+
+- Stanford CS224R — Deep Reinforcement Learning
+
 ## Research
 
 - Stanford CS197 — Computer Science Research
