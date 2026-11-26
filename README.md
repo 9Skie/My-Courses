@@ -6,13 +6,13 @@ My computer science self-study path. Linked courses take you to my work. Plain-t
 
 ### Logic on a Computer
 
-- [UC Berkeley CS61A — The Structure and Interpretation of Computer Programs](https://github.com/9Skie/CS61A)
-- [UC Berkeley CS61B — Data Structures](https://github.com/9Skie/CS61B)
+- [UCB CS61A — The Structure and Interpretation of Computer Programs](https://github.com/9Skie/CS61A)
+- [UCB CS61B — Data Structures](https://github.com/9Skie/CS61B)
 
 ### What Is a Computer
 
-- [UC Berkeley CS61C — Great Ideas in Computer Architecture](https://github.com/9Skie/CS61C)
-- [UC Berkeley CS162 — Operating Systems and System Programming](https://github.com/9Skie/CS162)
+- [UCB CS61C — Great Ideas in Computer Architecture](https://github.com/9Skie/CS61C)
+- [UCB CS162 — Operating Systems and System Programming](https://github.com/9Skie/CS162)
 
 ### Lots of Computers
 
